@@ -1,0 +1,7 @@
+Z:\c#\repo\Massivy\HomeWorkArray\HomeWorkArray\bin\Debug\HomeWorkArray.exe.config
+Z:\c#\repo\Massivy\HomeWorkArray\HomeWorkArray\bin\Debug\HomeWorkArray.exe
+Z:\c#\repo\Massivy\HomeWorkArray\HomeWorkArray\bin\Debug\HomeWorkArray.pdb
+Z:\c#\repo\Massivy\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.csprojAssemblyReference.cache
+Z:\c#\repo\Massivy\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.csproj.CoreCompileInputs.cache
+Z:\c#\repo\Massivy\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.exe
+Z:\c#\repo\Massivy\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.pdb
