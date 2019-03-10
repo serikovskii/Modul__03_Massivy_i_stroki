@@ -5,3 +5,10 @@ Z:\c#\repo\Massivy\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.csprojAss
 Z:\c#\repo\Massivy\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.csproj.CoreCompileInputs.cache
 Z:\c#\repo\Massivy\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.exe
 Z:\c#\repo\Massivy\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.pdb
+C:\Users\azat\Documents\GitHub\Modul__03_Massivy_i_stroki\HomeWorkArray\HomeWorkArray\bin\Debug\HomeWorkArray.exe.config
+C:\Users\azat\Documents\GitHub\Modul__03_Massivy_i_stroki\HomeWorkArray\HomeWorkArray\bin\Debug\HomeWorkArray.exe
+C:\Users\azat\Documents\GitHub\Modul__03_Massivy_i_stroki\HomeWorkArray\HomeWorkArray\bin\Debug\HomeWorkArray.pdb
+C:\Users\azat\Documents\GitHub\Modul__03_Massivy_i_stroki\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.csprojAssemblyReference.cache
+C:\Users\azat\Documents\GitHub\Modul__03_Massivy_i_stroki\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.csproj.CoreCompileInputs.cache
+C:\Users\azat\Documents\GitHub\Modul__03_Massivy_i_stroki\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.exe
+C:\Users\azat\Documents\GitHub\Modul__03_Massivy_i_stroki\HomeWorkArray\HomeWorkArray\obj\Debug\HomeWorkArray.pdb

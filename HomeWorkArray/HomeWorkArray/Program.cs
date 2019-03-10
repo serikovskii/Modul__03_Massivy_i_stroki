@@ -29,14 +29,37 @@ namespace HomeWorkArray
             }
             while (true);
             Console.WriteLine("\nПробелов: " + spaceCount);
+
             // 2
             int numBilet;
             numBilet = Int32.Parse(Console.ReadLine());
             int sumOne = 0;
             int sumTwo = 0;
-
             
+            for (int i = 0; i < 6; i++)
+            {
+                if (i < 3)
+                {
+                    sumOne += numBilet % 10;
+                }
+                else
+                {
+                    sumTwo += numBilet % 10;
+                }
+                numBilet = numBilet / 10;
+            }
 
+
+            if (sumTwo == sumOne)
+            {
+                Console.WriteLine("Счастливый билет");
+            }
+            else
+            Console.WriteLine("Несчастливый билет");
+            Console.WriteLine(sumOne + " " + sumTwo);
+            
+      
+            
             // 3
             string str;
             string tmp;
@@ -53,7 +76,19 @@ namespace HomeWorkArray
             }
             Console.ReadLine();
             // 4
+            
+            int numA = 3;
+            int numB = 7;
 
+            for (int i = numA; i <= numB; i++)
+            {
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write(i + " "); 
+                }
+                Console.WriteLine(" ");
+            }
+            Console.ReadLine();
             // 5
             string number = "987654321";
             char[] numOne = number.ToCharArray();
